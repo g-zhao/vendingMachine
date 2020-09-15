@@ -1,0 +1,128 @@
+Fri Aug 07 12:34:33 CDT 2020 Money Inserted: $5 Bill	Current balance: 5
+Fri Aug 07 12:34:33 CDT 2020 Money Inserted: $5 Bill	Current balance: 10
+Fri Aug 07 12:34:33 CDT 2020 Money Inserted: Back	Current balance: 10
+Fri Aug 07 12:34:33 CDT 2020 Purchase: A4 3.65 Cloud Popcorn	 Current Balance: 6.35
+Fri Aug 07 12:34:33 CDT 2020 Purchase: D3 0.75 Chiclets	 Current Balance: 5.60
+Fri Aug 07 12:39:12 CDT 2020 Money Inserted: $5 Bill	Current balance: 5
+Fri Aug 07 12:39:12 CDT 2020 Money Inserted: $5 Bill	Current balance: 10
+Fri Aug 07 12:39:12 CDT 2020 Money Inserted: Back	Current balance: 10
+Fri Aug 07 12:39:12 CDT 2020 Purchase: A4 3.65 Cloud Popcorn	 Current Balance: 6.35
+Fri Aug 07 12:39:12 CDT 2020 Purchase: D3 0.75 Chiclets	 Current Balance: 5.60
+Fri Aug 07 12:42:13 CDT 2020 Money Inserted: $5 Bill	Current balance: 5
+Fri Aug 07 12:42:13 CDT 2020 Money Inserted: $5 Bill	Current balance: 10
+Fri Aug 07 12:42:13 CDT 2020 Money Inserted: Back	Current balance: 10
+Fri Aug 07 12:42:13 CDT 2020 Purchase: A4 3.65 Cloud Popcorn	 Current Balance: 6.35
+Fri Aug 07 12:42:13 CDT 2020 Purchase: D3 0.75 Chiclets	 Current Balance: 5.60
+Fri Aug 07 12:43:43 CDT 2020 Money Inserted: $5 Bill	Current balance: 5
+Fri Aug 07 12:43:43 CDT 2020 Money Inserted: $5 Bill	Current balance: 10
+Fri Aug 07 12:43:43 CDT 2020 Money Inserted: Back	Current balance: 10
+Fri Aug 07 12:43:43 CDT 2020 Purchase: A4 3.65 Cloud Popcorn	 Current Balance: 6.35
+Fri Aug 07 12:43:43 CDT 2020 Purchase: D3 0.75 Chiclets	 Current Balance: 5.60
+Fri Aug 07 12:48:01 CDT 2020 Money Inserted: $5 Bill	Current balance: 5
+Fri Aug 07 12:48:01 CDT 2020 Money Inserted: $5 Bill	Current balance: 10
+Fri Aug 07 12:48:01 CDT 2020 Money Inserted: Back	Current balance: 10
+Fri Aug 07 12:48:01 CDT 2020 Purchase: A4 3.65 Cloud Popcorn	 Current Balance: 6.35
+Fri Aug 07 12:48:01 CDT 2020 Purchase: D3 0.75 Chiclets	 Current Balance: 5.60
+Fri Aug 07 12:53:16 CDT 2020 Money Inserted: $5 Bill	Current balance: 5
+Fri Aug 07 12:53:16 CDT 2020 Money Inserted: $5 Bill	Current balance: 10
+Fri Aug 07 12:53:16 CDT 2020 Money Inserted: Back	Current balance: 10
+Fri Aug 07 12:53:16 CDT 2020 Purchase: A4 3.65 Cloud Popcorn	 Current Balance: 6.35
+Fri Aug 07 12:53:16 CDT 2020 Purchase: D3 0.75 Chiclets	 Current Balance: 5.60
+Fri Aug 07 12:58:36 CDT 2020 Money Inserted: $5 Bill	Current balance: 5
+Fri Aug 07 12:58:36 CDT 2020 Money Inserted: $5 Bill	Current balance: 10
+Fri Aug 07 12:58:36 CDT 2020 Money Inserted: Back	Current balance: 10
+Fri Aug 07 12:58:36 CDT 2020 Purchase: A4 3.65 Cloud Popcorn	 Current Balance: 6.35
+Fri Aug 07 12:58:36 CDT 2020 Purchase: D3 0.75 Chiclets	 Current Balance: 5.60
+Fri Aug 07 13:00:59 CDT 2020 Money Inserted: $2 Bill	Current balance: 2
+Fri Aug 07 13:00:59 CDT 2020 Money Inserted: $5 Bill	Current balance: 7
+Fri Aug 07 13:00:59 CDT 2020 Money Inserted: $5 Bill	Current balance: 12
+Fri Aug 07 13:00:59 CDT 2020 Money Inserted: Back	Current balance: 12
+Fri Aug 07 13:00:59 CDT 2020 Purchase: A4 3.65 Cloud Popcorn	 Current Balance: 8.35
+Fri Aug 07 13:00:59 CDT 2020 Purchase: D3 0.75 Chiclets	 Current Balance: 7.60
+Fri Aug 07 13:00:59 CDT 2020 Purchase: A4 3.65 Cloud Popcorn	 Current Balance: 3.95
+Fri Aug 07 12:58:36 CDT 2020 Returned Funds Of: 5.60Fri Aug 07 13:03:23 CDT 2020 Money Inserted: $5 Bill	Current balance: 5
+Fri Aug 07 13:03:23 CDT 2020 Money Inserted: $5 Bill	Current balance: 10
+Fri Aug 07 13:03:23 CDT 2020 Money Inserted: Back	Current balance: 10
+Fri Aug 07 13:03:23 CDT 2020 Purchase: A4 3.65 Cloud Popcorn	 Current Balance: 6.35
+Fri Aug 07 13:03:23 CDT 2020 Purchase: D3 0.75 Chiclets	 Current Balance: 5.60
+Fri Aug 07 13:03:23 CDT 2020 Returned Funds Of: 5.60Fri Aug 07 14:59:20 CDT 2020 Money Inserted: $5 Bill	Current balance: 5
+Fri Aug 07 14:59:20 CDT 2020 Money Inserted: $5 Bill	Current balance: 10
+Fri Aug 07 14:59:20 CDT 2020 Money Inserted: $5 Bill	Current balance: 15
+Fri Aug 07 14:59:20 CDT 2020 Money Inserted: Back	Current balance: 15
+Fri Aug 07 14:59:20 CDT 2020 Purchase: A1 3.05 Potato Crisps	 Current Balance: 11.95
+Fri Aug 07 14:59:20 CDT 2020 Purchase: A3 2.75 Grain Waves	 Current Balance: 9.20
+Fri Aug 07 14:59:20 CDT 2020 Purchase: B1 1.80 Moonpie	 Current Balance: 7.40
+Fri Aug 07 14:59:20 CDT 2020 Purchase: C2 1.50 Dr. Salt	 Current Balance: 5.90
+Fri Aug 07 14:59:20 CDT 2020 Purchase: D3 0.75 Chiclets	 Current Balance: 5.15
+Fri Aug 07 14:59:20 CDT 2020 Returned Funds Of: 5.15
+Sun Aug 09 15:53:08 CDT 2020 Money Inserted: $5 Bill	Current balance: 5
+Sun Aug 09 15:53:08 CDT 2020 Money Inserted: $5 Bill	Current balance: 10
+Sun Aug 09 15:53:08 CDT 2020 Money Inserted: Back	Current balance: 10
+Sun Aug 09 15:57:20 CDT 2020 Money Inserted: $5 Bill	Current balance: 5
+Sun Aug 09 15:57:20 CDT 2020 Money Inserted: $5 Bill	Current balance: 10
+Sun Aug 09 15:57:20 CDT 2020 Money Inserted: Back	Current balance: 10
+Sun Aug 09 16:00:31 CDT 2020 Money Inserted: $5 Bill	Current balance: 5
+Sun Aug 09 16:00:31 CDT 2020 Money Inserted: $5 Bill	Current balance: 10
+Sun Aug 09 16:00:31 CDT 2020 Money Inserted: Back	Current balance: 10
+Sun Aug 09 16:00:31 CDT 2020 Purchase: A1 3.05 Potato Crisps	 Current Balance: 6.95
+Sun Aug 09 16:01:32 CDT 2020 Money Inserted: $5 Bill	Current balance: 5
+Sun Aug 09 16:01:32 CDT 2020 Money Inserted: $5 Bill	Current balance: 10
+Sun Aug 09 16:01:32 CDT 2020 Money Inserted: Back	Current balance: 10
+Sun Aug 09 16:01:32 CDT 2020 Purchase: A1 3.05 Potato Crisps	 Current Balance: 6.95
+Sun Aug 09 16:01:32 CDT 2020 Purchase: A4 3.65 Cloud Popcorn	 Current Balance: 3.30
+Sun Aug 09 16:01:32 CDT 2020 Purchase: D2 0.95 Little League Chew	 Current Balance: 2.35
+Sun Aug 09 16:01:32 CDT 2020 Returned Funds Of: 2.35
+Sun Aug 09 16:05:59 CDT 2020 Money Inserted: $5 Bill	Current balance: 5
+Sun Aug 09 16:05:59 CDT 2020 Money Inserted: $5 Bill	Current balance: 10
+Sun Aug 09 16:05:59 CDT 2020 Money Inserted: Back	Current balance: 10
+Sun Aug 09 16:05:59 CDT 2020 Purchase: A4 3.65 Cloud Popcorn	 Current Balance: 6.35
+Sun Aug 09 16:05:59 CDT 2020 Purchase: D2 0.95 Little League Chew	 Current Balance: 5.40
+Sun Aug 09 16:05:59 CDT 2020 Returned Funds Of: 5.40
+Sun Aug 09 16:09:35 CDT 2020 Money Inserted: $5 Bill	Current balance: 5
+Sun Aug 09 16:09:35 CDT 2020 Money Inserted: $5 Bill	Current balance: 10
+Sun Aug 09 16:09:35 CDT 2020 Money Inserted: $2 Bill	Current balance: 12
+Sun Aug 09 16:09:35 CDT 2020 Money Inserted: Back	Current balance: 12
+Sun Aug 09 16:09:35 CDT 2020 Purchase: C2 1.50 Dr. Salt	 Current Balance: 10.50
+Sun Aug 09 16:09:35 CDT 2020 Purchase: A1 3.05 Potato Crisps	 Current Balance: 7.45
+Sun Aug 09 16:10:36 CDT 2020 Money Inserted: $5 Bill	Current balance: 5
+Sun Aug 09 16:10:36 CDT 2020 Money Inserted: $5 Bill	Current balance: 10
+Sun Aug 09 16:10:36 CDT 2020 Money Inserted: Back	Current balance: 10
+Sun Aug 09 16:17:58 CDT 2020 Money Inserted: $5 Bill	Current balance: 5
+Sun Aug 09 16:17:58 CDT 2020 Money Inserted: $5 Bill	Current balance: 10
+Sun Aug 09 16:17:58 CDT 2020 Money Inserted: Back	Current balance: 10
+Sun Aug 09 16:17:58 CDT 2020 Purchase: A2 1.45 Stackers	 Current Balance: 8.55
+Sun Aug 09 17:03:04 CDT 2020 Money Inserted: $5 Bill	Current balance: 5
+Sun Aug 09 17:03:04 CDT 2020 Money Inserted: $5 Bill	Current balance: 10
+Sun Aug 09 17:03:04 CDT 2020 Money Inserted: Back	Current balance: 10
+Sun Aug 09 17:03:04 CDT 2020 Purchase: A1 3.05 Potato Crisps	 Current Balance: 6.95
+Sun Aug 09 17:06:54 CDT 2020 Money Inserted: $5 Bill	Current balance: 5
+Sun Aug 09 17:06:54 CDT 2020 Money Inserted: $5 Bill	Current balance: 10
+Sun Aug 09 17:06:54 CDT 2020 Money Inserted: Back	Current balance: 10
+Sun Aug 09 17:21:53 CDT 2020 Money Inserted: $5 Bill	Current balance: 5
+Sun Aug 09 17:21:53 CDT 2020 Money Inserted: $5 Bill	Current balance: 10
+Sun Aug 09 17:21:53 CDT 2020 Money Inserted: Back	Current balance: 10
+Sun Aug 09 17:21:53 CDT 2020 Purchase: A1 3.05 Potato Crisps	 Current Balance: 6.95
+Sun Aug 09 17:23:49 CDT 2020 Money Inserted: $5 Bill	Current balance: 5
+Sun Aug 09 17:23:49 CDT 2020 Money Inserted: Back	Current balance: 5
+Sun Aug 09 17:23:49 CDT 2020 Purchase: A1 3.05 Potato Crisps	 Current Balance: 1.95
+Sun Aug 09 17:41:45 CDT 2020 Money Inserted: $5 Bill	Current balance: 5
+Sun Aug 09 17:41:45 CDT 2020 Money Inserted: Back	Current balance: 5
+Sun Aug 09 17:41:45 CDT 2020 Purchase: B1 1.80 Moonpie	 Current Balance: 3.20
+Sun Aug 09 17:41:45 CDT 2020 Purchase: A1 3.05 Potato Crisps	 Current Balance: 0.15
+Sun Aug 09 17:41:45 CDT 2020 Returned Funds Of: 0.15
+Sun Aug 09 17:44:41 CDT 2020 Money Inserted: $5 Bill	Current balance: 5
+Sun Aug 09 17:44:41 CDT 2020 Money Inserted: $5 Bill	Current balance: 10
+Sun Aug 09 17:44:41 CDT 2020 Money Inserted: Back	Current balance: 10
+Sun Aug 09 17:44:41 CDT 2020 Purchase: A4 3.65 Cloud Popcorn	 Current Balance: 6.35
+Sun Aug 09 17:44:41 CDT 2020 Purchase: D4 0.75 Triplemint	 Current Balance: 5.60
+Sun Aug 09 17:44:41 CDT 2020 Returned Funds Of: 5.60
+Sun Aug 09 17:47:17 CDT 2020 Money Inserted: $5 Bill	Current balance: 5
+Sun Aug 09 17:47:17 CDT 2020 Money Inserted: $5 Bill	Current balance: 10
+Sun Aug 09 17:47:17 CDT 2020 Money Inserted: Back	Current balance: 10
+Sun Aug 09 17:47:17 CDT 2020 Purchase: A1 3.05 Potato Crisps	 Current Balance: 6.95
+Sun Aug 09 17:47:17 CDT 2020 Purchase: A3 2.75 Grain Waves	 Current Balance: 4.20
+Sun Aug 09 17:47:17 CDT 2020 Purchase: D2 0.95 Little League Chew	 Current Balance: 3.25
+Sun Aug 09 17:47:17 CDT 2020 Returned Funds Of: 3.25
+Thu Aug 20 12:23:45 CDT 2020 Returned Funds Of: 0
+Thu Aug 20 15:06:34 CDT 2020 Money Inserted: $2 Bill	Current balance: 2
+Thu Aug 20 15:06:34 CDT 2020 Money Inserted: Back	Current balance: 2
